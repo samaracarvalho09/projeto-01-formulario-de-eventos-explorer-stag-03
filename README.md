@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 
-<h2 id="aprendizado" style="color: #fca311">## 📃 Principais aprendizados:</h2>
+<h2 id="aprendizado" style="color: #fca311">📃 Principais aprendizados:</h2>
 
 - Uso de tags semânticas no HTML
 - Estilização de formulário
